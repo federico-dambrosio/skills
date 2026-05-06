@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Lean Code"
+  short_description: "Keep generated code small and maintainable"
+  default_prompt: "Use $write-lean-code to implement this change with minimal, low-complexity code and reuse existing modules first."

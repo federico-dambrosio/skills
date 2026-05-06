@@ -1,0 +1,4 @@
+interface:
+  display_name: "Karpathy Guidelines"
+  short_description: "Implement the Karpathy guidelines for code generation"
+  default_prompt: "Use $karpathy-guidelines to implement this change while following the Karpathy guidelines for code generation, which include: 1) Keep it simple and small, 2) Reuse existing code and modules, 3) Avoid unnecessary complexity, 4) Focus on readability and maintainability, and 5) Write clear and concise code."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deploying Domyn Swarm"
+  short_description: "Deploy vLLM clusters with domyn-swarm"
+  default_prompt: "Use $deploying-domyn-swarm to validate this YAML config and give me the safe deploy/status/down commands."

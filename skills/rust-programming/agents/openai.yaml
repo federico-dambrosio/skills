@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Programming"
+  short_description: "Rust quality workflow and best practices"
+  default_prompt: "Use $rust-programming to implement a well-tested Rust change."
